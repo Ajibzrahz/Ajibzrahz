@@ -47,8 +47,33 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ajibonaraheem@gmail.com)
 
 ---
+<!--  
+## 🛒 QuickMart API
+![Status](https://img.shields.io/badge/status-in--progress-yellow)  
+A modern and modular **Node.js e-commerce backend** built with Express.js and MongoDB. Designed for performance, scalability, and ease of integration.
 
-![Project Status](https://img.shields.io/badge/status-in--progress-yellow)
+### 🔧 Features:
+- ✅ Product CRUD operations
+- ✅ Filtering, sorting, and pagination
+- ✅ Environment-based config with `dotenv`
+- ✅ MongoDB/Mongoose integration
+- ✅ JWT Authentication (Login/Register)
+- 📬 Email notification system (e.g. order confirmation)
+- 🛒 Cart and Order management (coming soon)
+
+### 🧰 Tech Stack:
+- Node.js
+- Express.js
+- MongoDB + Mongoose
+- JSON Web Token (JWT)
+- Nodemailer (for emails)
+- dotenv, nodemon, and more
+
+> 🚧 Actively building — new features added regularly!
+
+🔗 [View Repository](https://github.com/Ajibzrahz/QuickMart)
+
+-->
 
 ### 💬 Quote
 
