@@ -20,14 +20,6 @@
 
 ---
 
-### 🌐 Currently Exploring
-
-- ☁️ Microsoft Azure (Fundamentals & Admin)
-- 🔒 Security & Intune (M365 Admin)
-- 📊 Power BI basics
-- 🧠 Advanced backend & clean architecture
-
----
 
 ### 📈 GitHub Stats
 
